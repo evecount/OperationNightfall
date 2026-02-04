@@ -41,4 +41,12 @@ However, we also provide a sample real-world dataset in `assets/cybercrime-foren
 > **Analyst Note:** Always verify data sources when downloading from the internet. In the security world, downloading unverified files is a major risk.
 
 ---
-*Good luck, Analyst. The CISO is waiting for your report.*
+Project Nightfall (Sentinel): The Open Source Forensic Grid
+
+We believe cybersecurity education shouldn't just be about reading logs; it should be about hunting threats.
+
+This repository houses Operation Nightfall, a complete forensic simulation where students track a hacker's lateral movement using Data Science. It culminates in the deployment of Sentinel, a browser-based Threat Console that allows analysts to visualize attack vectors in 3D and pledge their findings to a decentralized global intelligence grid.
+
+Stack: Python, Pandas, Streamlit, Plotly, Jupyter. Status: Live & Deployed.
+
+

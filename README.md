@@ -49,4 +49,6 @@ This repository houses Operation Nightfall, a complete forensic simulation where
 
 Stack: Python, Pandas, Streamlit, Plotly, Jupyter. Status: Live & Deployed.
 
+*Powered by Eve Count | Co-created by Gwendalynn Lim and Gemini*
+
 
